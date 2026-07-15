@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1857347,RESOLUTION=1692x720
+https://raw.githubusercontent.com/Jhelly7/streamvault-storage-01/storage-main/medo-s01-ep01-b1/hls/index.m3u8
